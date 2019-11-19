@@ -1,0 +1,44 @@
+.country-tag {
+    float: right;
+}
+
+.departure-date-container {
+    text-align: center;
+}
+
+.player-card {
+    width: 500px;
+    margin-top: 16px;
+    text-align: left;
+}
+
+.country-pic {
+    height: 25px;
+    margin-left: -10px;
+    margin-right: 10px;
+}
+
+.ant-card-meta-description {
+    margin-top: -10px;
+}
+
+.player-detail {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.player-details-container {
+    display: inline-block;
+}
+
+.matches-details-container {
+    float: right;
+    margin-right: 10px;
+}
+
+
+.points-detail {
+    margin-top: 10px;
+    width: 100%;
+    text-align: center;
+}
